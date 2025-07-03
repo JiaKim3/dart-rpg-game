@@ -1,0 +1,3 @@
+Batman,30,20
+Spiderman,25,25
+Superman,35,15
